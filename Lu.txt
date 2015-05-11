@@ -1,0 +1,18 @@
+Start: Tue, 5 May 2015 14:34:57 -0800
+End: Tue, 5 May 2015 16:13:14 -0800
+Tasks: Watched the lecture and followed along to complete prepared statements. Made the interface for project in interface.php
+
+Start: Wed, 6 May 2015 16:43:06 -0800
+End: Wed, 6 May 2015 21:12:00 -0800
+Tasks: Went back to lecture videos and the php manual given to finish status.php, clear.php, and delete.php
+
+Start: Fri, 8 May 2015 09:01:19 -0800
+End: Fri, 8 May 2015 11:56:13 -0800
+Tasks: worked on input validation through trial and error for addMovie.php and finished everything
+
+
+
+
+
+
+
